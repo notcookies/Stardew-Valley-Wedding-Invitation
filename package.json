@@ -1,0 +1,25 @@
+{
+  "name": "phase-1-final-project",
+  "version": "1.0.0",
+  "description": "stardew valley fish phase 1 final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleeLarrick/phase-1-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleeLarrick/phase-1-final-project/issues"
+  },
+  "homepage": "https://github.com/AshleeLarrick/phase-1-final-project#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jsdom": "^9.0",
+    "mocha": "5.2.0",
+    "mocha-jsdom": "~1.1.0"
+  }
+}

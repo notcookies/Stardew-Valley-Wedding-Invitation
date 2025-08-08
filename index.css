@@ -1,0 +1,38 @@
+body {
+  background-color: beige;
+}
+
+#sv-header {
+  opacity: .8;
+  height: 14rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding: 1rem;
+  width: stretch;
+  height: auto;
+  /*display: none; */
+  opacity: .8;
+  text-align: center;
+  color: green;
+}
+
+.search-fish-form {
+  text-align: center;
+}
+
+.input-text {
+  border-radius: 5px;
+  height: 2rem;
+  width: 60%;
+  font-size: 18px;
+  font-family: rockwell;
+  margin: 3px;
+}
+
+.fish-header {
+  font-family: rockwell;
+}
